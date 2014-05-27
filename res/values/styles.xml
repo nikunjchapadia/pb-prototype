@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="com_facebook_loginview_default_style" parent="@*android:style/Widget.Button">
+        <item name="android:textSize">@dimen/com_facebook_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/com_facebook_loginview_text_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/com_facebook_button_blue</item>
+        <item name="android:paddingLeft">@dimen/com_facebook_loginview_padding_left</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="@*android:style/Widget.Button">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff4b5164</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/com_facebook_loginbutton_silver</item>
+        <item name="android:height">44.0dip</item>
+        <item name="android:width">205.0dip</item>
+    </style>
+    <style name="Widget.PullToRefresh.ProgressBar.Horizontal.Center" parent="@*android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">4.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/ptr_progress_indeterminate_horizontal_holo</item>
+        <item name="android:progressDrawable">@drawable/ptr_progress_horizontal_holo_center</item>
+        <item name="android:minHeight">4.0dip</item>
+    </style>
+    <style name="AppBaseTheme" parent="@style/Theme.Hight_contrast" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="ButtonILikeFunnyDogsStyle" parent="@*android:style/Widget.Button">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:background">@drawable/btn_default_holo_light</item>
+        <item name="android:minWidth">64.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="Theme.Hight_contrast" parent="@*android:style/Theme.Holo.Light">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Hight_contrast</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Hight_contrast</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Hight_contrast</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_hight_contrast</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Hight_contrast</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Hight_contrast</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Hight_contrast</item>
+    </style>
+    <style name="ActionBar.Solid.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:progressBarStyle">@style/ProgressBar.Hight_contrast</item>
+        <item name="android:background">@drawable/ab_solid_hight_contrast</item>
+    </style>
+    <style name="ActionBar.Transparent.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:progressBarStyle">@style/ProgressBar.Hight_contrast</item>
+        <item name="android:background">@drawable/ab_transparent_hight_contrast</item>
+    </style>
+    <style name="PopupMenu.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_hight_contrast</item>
+    </style>
+    <style name="DropDownListView.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ListView.DropDown">
+        <item name="android:listSelector">@drawable/selectable_background_hight_contrast</item>
+    </style>
+    <style name="DropDownNav.Hight_contrast" parent="@*android:style/Widget.Holo.Light.Spinner">
+        <item name="android:background">@drawable/spinner_background_ab_hight_contrast</item>
+        <item name="android:dropDownSelector">@drawable/selectable_background_hight_contrast</item>
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel_hight_contrast</item>
+    </style>
+    <style name="ProgressBar.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progress_horizontal_hight_contrast</item>
+    </style>
+    <style name="ActionButton.CloseMode.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ActionButton.CloseMode">
+        <item name="android:background">@drawable/btn_cab_done_hight_contrast</item>
+    </style>
+    <style name="Theme.Hight_contrast.Widget" parent="@*android:style/Theme.Holo">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Hight_contrast</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Hight_contrast</item>
+    </style>
+</resources>

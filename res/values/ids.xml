@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="ptr_content" />
+    <item type="id" name="ptr_text_opaque_bg" />
+    <item type="id" name="ptr_text" />
+    <item type="id" name="ptr_progress" />
+    <item type="id" name="textView1">false</item>
+    <item type="id" name="txtGeneratedBy">false</item>
+    <item type="id" name="imageView1">false</item>
+    <item type="id" name="fragment_user_setting">false</item>
+    <item type="id" name="pager">false</item>
+    <item type="id" name="indicator">false</item>
+    <item type="id" name="btn_facebook">false</item>
+    <item type="id" name="iv_photo">false</item>
+    <item type="id" name="scrollView1">false</item>
+    <item type="id" name="status_text_view">false</item>
+    <item type="id" name="web_view">false</item>
+    <item type="id" name="com_facebook_picker_list_view">false</item>
+    <item type="id" name="com_facebook_picker_activity_circle">false</item>
+    <item type="id" name="com_facebook_login_activity_progress_bar">false</item>
+    <item type="id" name="com_facebook_picker_row_activity_circle">false</item>
+    <item type="id" name="com_facebook_picker_checkbox">false</item>
+    <item type="id" name="com_facebook_picker_image">false</item>
+    <item type="id" name="com_facebook_picker_profile_pic_stub">false</item>
+    <item type="id" name="com_facebook_picker_title">false</item>
+    <item type="id" name="com_facebook_picker_checkbox_stub">false</item>
+    <item type="id" name="com_facebook_picker_list_section_header">false</item>
+    <item type="id" name="com_facebook_picker_top_bar">false</item>
+    <item type="id" name="com_facebook_picker_done_button">false</item>
+    <item type="id" name="com_facebook_picker_divider">false</item>
+    <item type="id" name="com_facebook_picker_title_bar_stub">false</item>
+    <item type="id" name="com_facebook_picker_title_bar">false</item>
+    <item type="id" name="picker_subtitle">false</item>
+    <item type="id" name="com_facebook_search_bar_view">false</item>
+    <item type="id" name="com_facebook_picker_search_text">false</item>
+    <item type="id" name="com_facebook_usersettingsfragment_logo_image">false</item>
+    <item type="id" name="com_facebook_usersettingsfragment_profile_name">false</item>
+    <item type="id" name="com_facebook_usersettingsfragment_login_button">false</item>
+    <item type="id" name="section_label">false</item>
+    <item type="id" name="RelativeLayout1">false</item>
+    <item type="id" name="iv_photo_for_upload">false</item>
+    <item type="id" name="ll_submit_action_buttons">false</item>
+    <item type="id" name="ib_gallery">false</item>
+    <item type="id" name="ib_upload">false</item>
+    <item type="id" name="ib_camera">false</item>
+    <item type="id" name="tv_comment">false</item>
+    <item type="id" name="ll_container">false</item>
+    <item type="id" name="iv_profile_image">false</item>
+    <item type="id" name="tv_profile_name">false</item>
+    <item type="id" name="ll_header_divider">false</item>
+    <item type="id" name="tv_photo_title">false</item>
+    <item type="id" name="layout_dog_photo">false</item>
+    <item type="id" name="iv_dog_photo">false</item>
+    <item type="id" name="iv_play">false</item>
+    <item type="id" name="tv_link_description">false</item>
+    <item type="id" name="ll_fb_action_buttons">false</item>
+    <item type="id" name="btn_like">false</item>
+    <item type="id" name="btn_comment">false</item>
+    <item type="id" name="btn_share">false</item>
+    <item type="id" name="btn_share2">false</item>
+    <item type="id" name="tv_likes">false</item>
+    <item type="id" name="tv_top_comments">false</item>
+    <item type="id" name="lv_comments">false</item>
+    <item type="id" name="tv_comments">false</item>
+    <item type="id" name="wv_comments">false</item>
+    <item type="id" name="shareAppIcon">false</item>
+    <item type="id" name="shareAppLabel">false</item>
+    <item type="id" name="action_facebook">false</item>
+    <item type="id" name="action_like_page">false</item>
+    <item type="id" name="action_settings">false</item>
+    <item type="id" name="action_about">false</item>
+</resources>

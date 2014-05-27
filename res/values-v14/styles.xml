@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Hight_contrast" parent="@*android:style/Theme.Holo.Light">
+        <item name="android:dropDownListViewStyle">@style/DropDownListView.Hight_contrast</item>
+        <item name="android:actionBarStyle">@style/ActionBar.Solid.Hight_contrast</item>
+        <item name="android:actionDropDownStyle">@style/DropDownNav.Hight_contrast</item>
+        <item name="android:actionModeBackground">@drawable/cab_background_top_hight_contrast</item>
+        <item name="android:actionBarTabStyle">@style/ActionBarTabStyle.Hight_contrast</item>
+        <item name="android:actionModeCloseButtonStyle">@style/ActionButton.CloseMode.Hight_contrast</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu.Hight_contrast</item>
+        <item name="android:actionBarItemBackground">@drawable/selectable_background_hight_contrast</item>
+        <item name="android:actionModeSplitBackground">@drawable/cab_background_bottom_hight_contrast</item>
+    </style>
+    <style name="ActionBar.Solid.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:progressBarStyle">@style/ProgressBar.Hight_contrast</item>
+        <item name="android:background">@drawable/ab_solid_hight_contrast</item>
+        <item name="android:backgroundStacked">@drawable/ab_stacked_solid_hight_contrast</item>
+        <item name="android:backgroundSplit">@drawable/ab_bottom_solid_hight_contrast</item>
+    </style>
+    <style name="ActionBarTabStyle.Hight_contrast" parent="@*android:style/Widget.Holo.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_hight_contrast</item>
+    </style>
+</resources>
