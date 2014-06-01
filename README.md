@@ -1,4 +1,4 @@
-pb-android
+pb-prototype
 ==========
 
-PB android app - prototype
+PB prototype - android app
